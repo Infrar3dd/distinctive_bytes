@@ -1,0 +1,415 @@
+[
+  {
+    "hex": "6375726974792f636572",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "curity/cer"
+  },
+  {
+    "hex": "000b746f436861724172",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "6c6563746976654f7065",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "lectiveOpe"
+  },
+  {
+    "hex": "6b6574466163746f7279",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "ketFactory"
+  },
+  {
+    "hex": "1e4c6a6176612f696f2f",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "7574696c2f7a69702f5a",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "util/zip/Z"
+  },
+  {
+    "hex": "65744162736f6c757465",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "etAbsolute"
+  },
+  {
+    "hex": "2f73736c2f5472757374",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/ssl/Trust"
+  },
+  {
+    "hex": "6976654f706572617469",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "iveOperati"
+  },
+  {
+    "hex": "7065726174696f6e4578",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "perationEx"
+  },
+  {
+    "hex": "727448616e647368616b",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "rtHandshak"
+  },
+  {
+    "hex": "6c654f75747075745374",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "leOutputSt"
+  },
+  {
+    "hex": "000867657453686f7274",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "4c536f636b6574466163",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "LSocketFac"
+  },
+  {
+    "hex": "2f5265666c6563746976",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/Reflectiv"
+  },
+  {
+    "hex": "676574536f636b657446",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "getSocketF"
+  },
+  {
+    "hex": "58353039436572746966",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "X509Certif"
+  },
+  {
+    "hex": "53534c536f636b657446",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "SSLSocketF"
+  },
+  {
+    "hex": "4e6f74466f756e644578",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "NotFoundEx"
+  },
+  {
+    "hex": "7874656e73696f6e732d",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "xtensions-"
+  },
+  {
+    "hex": "742f73736c2f53534c53",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "t/ssl/SSLS"
+  },
+  {
+    "hex": "6c2f53534c536f636b65",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "l/SSLSocke"
+  },
+  {
+    "hex": "696f6e416c676f726974",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "ionAlgorit"
+  },
+  {
+    "hex": "00114c6a6176612f6e65",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "3954727573744d616e61",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "9TrustMana"
+  },
+  {
+    "hex": "6f2f46696c654f757470",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "o/FileOutp"
+  },
+  {
+    "hex": "6765744d6f6469666965",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "getModifie"
+  },
+  {
+    "hex": "0e737461727448616e64",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "6f756e64457863657074",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "oundExcept"
+  },
+  {
+    "hex": "744e657874456e747279",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "tNextEntry"
+  },
+  {
+    "hex": "2f6e65742f73736c2f54",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/net/ssl/T"
+  },
+  {
+    "hex": "43657274696669636174",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "Certificat"
+  },
+  {
+    "hex": "64496e70757453747265",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "dInputStre"
+  },
+  {
+    "hex": "636c6f7365456e747279",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "closeEntry"
+  },
+  {
+    "hex": "000c6765744e65787445",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "2f54727573744d616e61",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/TrustMana"
+  },
+  {
+    "hex": "0b67657450726f746f63",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "7661782f6e65742f536f",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "vax/net/So"
+  },
+  {
+    "hex": "6c616e672f5265666c65",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "lang/Refle"
+  },
+  {
+    "hex": "002e0000000000000000",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "65744c6f636174696f6e",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "etLocation"
+  },
+  {
+    "hex": "6574506172616d657465",
+    "length": 10,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "etParamete"
+  },
+  {
+    "hex": "00000000000007003b",
+    "length": 9,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "75726974792f50726f",
+    "length": 9,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "urity/Pro"
+  },
+  {
+    "hex": "2f50726f636573733b",
+    "length": 9,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/Process;"
+  },
+  {
+    "hex": "744964656e74696669",
+    "length": 9,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "tIdentifi"
+  },
+  {
+    "hex": "72616d65746572733b",
+    "length": 9,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "rameters;"
+  },
+  {
+    "hex": "0000000004000200",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "73746f6d48656164",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "stomHead"
+  },
+  {
+    "hex": "2f7a69702f5a6970",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "/zip/Zip"
+  },
+  {
+    "hex": "656e67696e655f74",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "engine_t"
+  },
+  {
+    "hex": "2200000033000000",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "0600000005000100",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "0700020000000700",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  },
+  {
+    "hex": "74792f636572742f",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "ty/cert/"
+  },
+  {
+    "hex": "6765745175657279",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "getQuery"
+  },
+  {
+    "hex": "696669636174653b",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "ificate;"
+  },
+  {
+    "hex": "5f6f7074696f6e73",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": "_options"
+  },
+  {
+    "hex": "00000000ffff0100",
+    "length": 8,
+    "g1_coverage": 1.0,
+    "g2_hits": 0,
+    "ascii": null
+  }
+]
